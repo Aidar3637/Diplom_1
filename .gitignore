@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code configuration files
+.vscode/
+
+# PyCharm configuration files
+.idea/
+
+# Environment and dependency management
+.env
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# pytest
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Report directories
+reports/
+dist/
+build/
+__pycache__/
